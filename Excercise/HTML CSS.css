@@ -31,8 +31,8 @@ button{
 }
 
 
-.mrgn{
-  margin: 10px 0px 0px 620px;
+.text1{
+  margin-left: 620px;
   background-color: rgb(219, 176, 176);
   border: 1px solid goldenrod;
 width: 350px;
@@ -56,8 +56,25 @@ h2{
  
 }
 
-#container{
-width: 120px;
-width: 150px;
+.image{
+width: 100%;
+
+
+}
+.container{
+width: 50%;
+
+}
+
+.section{
+
+  display: flex;
+}
+
+.text{
+  font-style: italic;
+  font-weight: 700;
+margin-left: 5px;
+text-align: justify;
 
 }

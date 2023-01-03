@@ -1,0 +1,57 @@
+*{
+  background-color: rgb(45, 236, 118);
+}
+#heder{
+  /* border: 5px solid red;  */
+  height: 500px;
+  width: 1055px;
+   background-image: url(./image/portrait-or-landscape-format-which-to-choose-en.jpg);
+   background-size: cover; 
+}
+
+button{
+  width: 172px;
+  height: 40px;
+  border: 5px solid red;
+  border-radius: 5px;
+  font-weight: 800px;
+}
+
+.inp{
+  /* margin-left: 40px; */
+  margin-top: 20px;
+  margin-bottom: 10px;
+
+  /* margin-bottom: 20px; */
+  border-radius: 7px;
+  height: 20px;
+
+    /* padding: 60px; */
+    text-align: center;
+}
+
+
+.mrgn{
+  margin: 10px 0px 0px 620px;
+  background-color: rgb(219, 176, 176);
+  border: 1px solid goldenrod;
+width: 350px;
+height: 300px;
+text-align: center;
+padding: 40px;
+background-image: url(image/boy-sitting-alone-on-high-mountain-rock-5k-rj-3840x2400.jpg);
+
+background-repeat: no-repeat;
+background-position: bottom right;
+background-size: cover;
+
+
+}
+
+h2{
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  width: 800px;
+  margin: 100px 0px 0px 0px;
+  background-position: bottom right;
+ 
+}

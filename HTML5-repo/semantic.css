@@ -1,8 +1,12 @@
+
+.blogs{
+  background-color: bisque;
+}
+
 p{
   text-align: justify;
-  padding-left: 20px;
-  padding-right: 20px;
-  }
+  padding: 20px;
+}
 
 h1{
   color: crimson;
@@ -14,7 +18,35 @@ h2{
   background-color: rgb(161, 197, 0);
   padding: 10px;
   border: 7px solid greenyellow;
+  text-align: center;
 }
-section{
-  background-color: bisque;
+
+.blog{
+  background-color: brown;
+  text-decoration: underline white;
+  color: rgb(250, 189, 20);
+  padding: 20px;
+  text-align: center;
+  width: 200px;
+  height: 350px;
+}
+
+.bio{
+  display: flex;
+}
+
+.pic{
+
+height: 390px;
+
+
+}
+
+body{
+  background-color: burlywood;
+}
+
+footer{
+
+  background-color: white;
 }
